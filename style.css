@@ -951,7 +951,7 @@ nav ul {
     margin: 0;
   }
   body {
-    width: 500px;
+    width: 100vw;
     min-width: auto !important;;
   }
   .header.group img {
